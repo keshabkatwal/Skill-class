@@ -1,0 +1,12 @@
+Git add "file name"  #to_add_file
+git commit -m "message" #message_you_want
+git push #to send file
+get status #to check status
+
+
+
+#to_activate_venv
+source\env_name\Script\activate #change_the_name_of_env_as_yours
+Ctrl+Shift+p 
+select interpreter
+select python then choice evn 
